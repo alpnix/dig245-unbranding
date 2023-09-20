@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     text-align: center;
+    font-family: Bangers;
 }
 
 #leftbull {
@@ -11,8 +12,4 @@
 
 #rightbull {
     transform: translateX(-100px);    
-}
-
-img {
-    
 }
