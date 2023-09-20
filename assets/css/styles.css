@@ -7,9 +7,15 @@
 }
 
 #leftbull {
-    transform: translateX(100px);
+    transform: translateX(15%);
+    width: 32%;
+}
+
+#sun {
+    width: 24%;
 }
 
 #rightbull {
-    transform: translateX(-100px);    
+    transform: translateX(-15%);    
+    width: 32%;
 }
